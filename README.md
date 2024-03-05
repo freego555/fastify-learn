@@ -30,4 +30,4 @@ USERS = '[
 ]'
 ```
 
-`npm start` to start backend server.
+`npm run start:prod` to start backend server.
